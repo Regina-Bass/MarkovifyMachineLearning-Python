@@ -1,6 +1,6 @@
 # MLH Localhost <> Capital One
 
-This project contains the starter code for Basic Training: Bot Camp!
+HTML + JS + Python w/ twitter/MLH API and Markovify AI
 
 Your Project
 ------------
