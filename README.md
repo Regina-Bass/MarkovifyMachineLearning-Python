@@ -34,3 +34,6 @@ This folder contains the JavaScript, CSS and images that the web app uses.
 
 This launches the webpage of the Twitter app.
 
+## Demo
+
+<img src='https://media.giphy.com/media/TGKtkckdKkszfCnqhN/giphy.gif' title='Video Walkthrough' width='' alt='demo' />
