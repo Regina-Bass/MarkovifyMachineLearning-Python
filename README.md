@@ -4,11 +4,8 @@ HTML + JS + Python w/ twitter/MLH API and Markovify AI
 
 Your Project
 ------------
-Click `Show` above and it will launch the app in a new browser tab. It starts by running the `main.py` program.
-
-### ← README.md
-
-That's this file!
+Glitch: Click `Show` above and it will launch the app in a new browser tab. It starts by running the `main.py` program.
+GitHub: download or clone
 
 ### ← twitter_scraper_fetcher.py
 
